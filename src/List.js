@@ -21,6 +21,7 @@ export const games = [
 	'DmC: Devil May Cry',
 	'Doom',
 	'Far Cry 3',
+	'Firewatch',
 	'Ghost Recon: Future Soldier',
 	'Grand Theft Auto: Vice City',
 	'Inside',
