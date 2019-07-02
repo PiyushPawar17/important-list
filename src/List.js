@@ -34,6 +34,7 @@ export const games = [
 	'Prince of Persia: The Forgotten Sands',
 	'Tomb Raider',
 	'Rise of the Tomb Raider',
+	'RiME',
 	'Shadow of the Tomb Raider',
 	'Total Overdose'
 ];
