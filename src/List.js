@@ -21,6 +21,7 @@ export const games = [
 	'DmC: Devil May Cry',
 	'Doom',
 	'Far Cry 3',
+	'Farm Frenzy 2',
 	'Firewatch',
 	'Ghost Recon: Future Soldier',
 	'Grand Theft Auto: Vice City',
@@ -33,9 +34,10 @@ export const games = [
 	'Prince of Persia: Warrior Within',
 	'Prince of Persia: The Two Thrones',
 	'Prince of Persia: The Forgotten Sands',
-	'Tomb Raider',
 	'Rise of the Tomb Raider',
 	'RiME',
+	'Roads of Rome II',
 	'Shadow of the Tomb Raider',
+	'Tomb Raider',
 	'Total Overdose'
 ];
