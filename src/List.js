@@ -9,6 +9,7 @@ export const games = [
 	"Assassin's Creed: Unity",
 	"Assassin's Creed: Syndicate",
 	"Assassin's Creed: Origins",
+	"Assassin's Creed: Odyssey",
 	'Battlefield 1',
 	'Battlefield 4',
 	'Call of Duty',
