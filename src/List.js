@@ -26,6 +26,7 @@ export const games = [
 	'Farm Frenzy 2',
 	'Firewatch',
 	'Ghost Recon: Future Soldier',
+	'Gone Home',
 	'Grand Theft Auto: Vice City',
 	'Inside',
 	'Journey',
