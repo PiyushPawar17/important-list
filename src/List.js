@@ -36,6 +36,7 @@ export const games = [
 	'Prince of Persia: Warrior Within',
 	'Prince of Persia: The Two Thrones',
 	'Prince of Persia: The Forgotten Sands',
+	'Quantum Break',
 	'Rise of the Tomb Raider',
 	'RiME',
 	'Roads of Rome II',
