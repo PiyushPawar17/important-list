@@ -28,6 +28,7 @@ export const games = [
 	'Ghost Recon: Future Soldier',
 	'Gone Home',
 	'Grand Theft Auto: Vice City',
+	"Hellblade: Senua's Sacrifice",
 	'Inside',
 	'Journey',
 	'Limbo',
