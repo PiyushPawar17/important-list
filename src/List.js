@@ -43,6 +43,7 @@ export const games = [
 	'RiME',
 	'Roads of Rome II',
 	'Shadow of the Tomb Raider',
+	'Spec Ops: The Line',
 	'Tomb Raider',
 	'Total Overdose'
 ];
