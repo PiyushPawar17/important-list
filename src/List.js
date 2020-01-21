@@ -1,4 +1,5 @@
 export const games = [
+	'A Plague Tale: Innocence',
 	"Assassin's Creed",
 	"Assassin's Creed II",
 	"Assassin's Creed: Brotherhood",
@@ -29,6 +30,7 @@ export const games = [
 	'Gone Home',
 	'Grand Theft Auto: Vice City',
 	"Hellblade: Senua's Sacrifice",
+	'Heroes of Hellas',
 	'Inside',
 	'Journey',
 	'Limbo',
