@@ -48,5 +48,6 @@ export const games = [
 	'Spec Ops: The Line',
 	'Tomb Raider',
 	'Total Overdose',
-	'Urban Freestyle Soccer'
+	'Urban Freestyle Soccer',
+	'Virtua Cop 2'
 ];

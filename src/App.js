@@ -12,7 +12,7 @@ const App = () => (
 			<p>Count: {games.length}</p>
 		</header>
 		<main className="list">
-			{games.map(game => (
+			{games.sort().map(game => (
 				<div className="card" key={game}>
 					<p>{game}</p>
 				</div>
