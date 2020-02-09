@@ -21,6 +21,7 @@ export const games = [
 	'Call of Duty: Modern Warfare',
 	'Call of Duty: Modern Warfare 2',
 	'Call of Duty: Modern Warfare 3',
+	'Call of Duty: WWII',
 	'DmC: Devil May Cry',
 	'Doom',
 	'Far Cry 3',
