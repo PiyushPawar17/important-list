@@ -32,6 +32,7 @@ export const games = [
 	'Grand Theft Auto: Vice City',
 	"Hellblade: Senua's Sacrifice",
 	'Heroes of Hellas',
+	'Heroes of Hellas 2 - Olympia',
 	'Inside',
 	'Journey',
 	'Limbo',
@@ -50,5 +51,5 @@ export const games = [
 	'Tomb Raider',
 	'Total Overdose',
 	'Urban Freestyle Soccer',
-	'Virtua Cop 2'
+	'Virtua Cop 2',
 ];
