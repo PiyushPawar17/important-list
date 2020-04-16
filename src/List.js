@@ -1,4 +1,4 @@
-export const games = [
+export const completedGames = [
 	'A Plague Tale: Innocence',
 	"Assassin's Creed",
 	"Assassin's Creed II",
@@ -51,5 +51,25 @@ export const games = [
 	'Tomb Raider',
 	'Total Overdose',
 	'Urban Freestyle Soccer',
-	'Virtua Cop 2',
+	'Virtua Cop 2'
+];
+
+export const unfinishedGames = [
+	'Ashes Cricket 2009',
+	'Counter-Strike 1.6',
+	'Counter-Strike: Condition Zero',
+	'Counter-Strike: Global Offensive',
+	'Cricket 07',
+	'Cricket 2000',
+	'Far Cry 2',
+	'FIFA',
+	'Grand Theft Auto: San Andreas',
+	'Grand Theft Auto III',
+	'Midtown Madness',
+	'Need for Speed: Hot Pursuit',
+	'Need for Speed: Porsche Unleashed',
+	'Need for Speed: Underground',
+	'Prince of Persia: The Sands of Time',
+	'We Happy Few',
+	'WWE SmackDown vs. Raw'
 ];

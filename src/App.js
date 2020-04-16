@@ -1,6 +1,6 @@
 import React from 'react';
 
-import { games } from './List';
+import { completedGames, unfinishedGames } from './List';
 
 import './styles.css';
 
@@ -8,15 +8,32 @@ const App = () => (
 	<React.Fragment>
 		<header className="header">
 			<h1>Important List</h1>
-			<h2>A list to keep track of my completed games</h2>
-			<p>Count: {games.length}</p>
+			<h2>A list to keep track of the games that I've played</h2>
+			<p className="count">Total Count: {completedGames.length + unfinishedGames.length}</p>
 		</header>
-		<main className="list">
-			{games.map(game => (
-				<div className="card" key={game}>
-					<p>{game}</p>
-				</div>
-			))}
+		<main>
+			<section className="games">
+				<h3 className="title">Completed Games</h3>
+				<p className="count">Count: {completedGames.length}</p>
+				<section className="list">
+					{completedGames.map(game => (
+						<div className="card" key={game}>
+							<p>{game}</p>
+						</div>
+					))}
+				</section>
+			</section>
+			<section className="games">
+				<h3 className="title">Unfinished Games / Competitive Games</h3>
+				<p className="count">Count: {unfinishedGames.length}</p>
+				<section className="list">
+					{unfinishedGames.map(game => (
+						<div className="card" key={game}>
+							<p>{game}</p>
+						</div>
+					))}
+				</section>
+			</section>
 		</main>
 	</React.Fragment>
 );
