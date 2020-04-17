@@ -46,6 +46,7 @@ export const completedGames = [
 	'RiME',
 	'Rise of the Tomb Raider',
 	'Roads of Rome II',
+	'Scooby-Doo: Phantom of the Knight',
 	'Shadow of the Tomb Raider',
 	'Spec Ops: The Line',
 	'Tomb Raider',
@@ -69,7 +70,9 @@ export const unfinishedGames = [
 	'Need for Speed: Hot Pursuit',
 	'Need for Speed: Porsche Unleashed',
 	'Need for Speed: Underground',
+	'Prince of Persia',
 	'Prince of Persia: The Sands of Time',
+	'Roadrash',
 	'We Happy Few',
 	'WWE SmackDown vs. Raw'
 ];
