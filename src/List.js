@@ -33,6 +33,7 @@ export const completedGames = [
 	"Hellblade: Senua's Sacrifice",
 	'Heroes of Hellas',
 	'Heroes of Hellas 2 - Olympia',
+	'Heroes of Hellas 3 - Athens',
 	'Inside',
 	'Journey',
 	'Limbo',
