@@ -58,6 +58,7 @@ export const completedGames = [
 
 export const unfinishedGames = [
 	'Ashes Cricket 2009',
+	'Claw',
 	'Counter-Strike 1.6',
 	'Counter-Strike: Condition Zero',
 	'Counter-Strike: Global Offensive',
