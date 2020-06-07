@@ -25,6 +25,7 @@ export const completedGames = [
 	'DmC: Devil May Cry',
 	'Doom',
 	'Far Cry 3',
+	'Far Cry 4',
 	'Farm Frenzy 2',
 	'Firewatch',
 	'Ghost Recon: Future Soldier',
