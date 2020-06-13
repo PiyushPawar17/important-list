@@ -38,6 +38,7 @@ export const completedGames = [
 	'Inside',
 	'Journey',
 	'Limbo',
+	"Mirror's Edge",
 	"Mirror's Edge Catalyst",
 	'Need for Speed: Most Wanted',
 	'Need for Speed: Underground 2',
