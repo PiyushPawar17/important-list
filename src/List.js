@@ -43,6 +43,7 @@ export const completedGames = [
 	'Need for Speed: Most Wanted',
 	'Need for Speed: Underground 2',
 	'Prince of Persia: The Forgotten Sands',
+	'Prince of Persia: The Sands of Time',
 	'Prince of Persia: The Two Thrones',
 	'Prince of Persia: Warrior Within',
 	'Quantum Break',
@@ -75,7 +76,6 @@ export const unfinishedGames = [
 	'Need for Speed: Porsche Unleashed',
 	'Need for Speed: Underground',
 	'Prince of Persia',
-	'Prince of Persia: The Sands of Time',
 	'Roadrash',
 	'We Happy Few',
 	'WWE SmackDown vs. Raw'
