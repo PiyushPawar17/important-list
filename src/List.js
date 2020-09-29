@@ -57,7 +57,8 @@ export const completedGames = [
 	'Tomb Raider',
 	'Total Overdose',
 	'Urban Freestyle Soccer',
-	'Virtua Cop 2'
+	'Virtua Cop 2',
+	'What Remains of Edith Finch'
 ];
 
 export const unfinishedGames = [
