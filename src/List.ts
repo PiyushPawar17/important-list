@@ -1,4 +1,4 @@
-export const completedGames = [
+export const completedGames: string[] = [
 	'A Plague Tale: Innocence',
 	"Assassin's Creed",
 	"Assassin's Creed II",
@@ -59,9 +59,9 @@ export const completedGames = [
 	'Urban Freestyle Soccer',
 	'Virtua Cop 2',
 	'What Remains of Edith Finch'
-];
+].sort();
 
-export const unfinishedGames = [
+export const unfinishedGames: string[] = [
 	'Ashes Cricket 2009',
 	'Claw',
 	'Counter-Strike 1.6',
@@ -81,4 +81,4 @@ export const unfinishedGames = [
 	'Roadrash',
 	'We Happy Few',
 	'WWE SmackDown vs. Raw'
-];
+].sort();

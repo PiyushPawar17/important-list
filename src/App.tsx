@@ -4,8 +4,8 @@ import { completedGames, unfinishedGames } from './List';
 
 import './styles.css';
 
-const App = () => (
-	<React.Fragment>
+const App: React.FC = () => (
+	<>
 		<header className="header">
 			<h1>Important List</h1>
 			<h2>A list to keep track of the games that I've played</h2>
@@ -35,7 +35,7 @@ const App = () => (
 				</section>
 			</section>
 		</main>
-	</React.Fragment>
+	</>
 );
 
 export default App;
