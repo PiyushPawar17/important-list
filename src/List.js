@@ -4,6 +4,7 @@ export const completedGames = [
 	"Assassin's Creed II",
 	"Assassin's Creed III",
 	"Assassin's Creed IV: Black Flag",
+	"Assassin's Creed IV: Black Flag - Freedom Cry",
 	"Assassin's Creed: Brotherhood",
 	"Assassin's Creed: Odyssey",
 	"Assassin's Creed: Origins",
