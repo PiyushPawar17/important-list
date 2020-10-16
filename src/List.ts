@@ -3,6 +3,7 @@ export const completedGames: string[] = [
 	"Assassin's Creed",
 	"Assassin's Creed II",
 	"Assassin's Creed III",
+	"Assassin's Creed III: Liberation",
 	"Assassin's Creed IV: Black Flag",
 	"Assassin's Creed IV: Black Flag - Freedom Cry",
 	"Assassin's Creed: Brotherhood",
