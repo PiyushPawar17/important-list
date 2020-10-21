@@ -49,6 +49,7 @@ export const completedGames: string[] = [
 	'Prince of Persia: The Two Thrones',
 	'Prince of Persia: Warrior Within',
 	'Quantum Break',
+	'Raji: An Ancient Epic',
 	'RiME',
 	'Rise of the Tomb Raider',
 	'Roads of Rome II',
