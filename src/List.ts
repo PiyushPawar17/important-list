@@ -24,6 +24,7 @@ export const completedGames: string[] = [
 	'Call of Duty: Modern Warfare 2',
 	'Call of Duty: Modern Warfare 3',
 	'Call of Duty: WWII',
+	'Detroit: Become Human',
 	'DmC: Devil May Cry',
 	'Doom',
 	'Far Cry 3',
