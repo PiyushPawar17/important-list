@@ -55,6 +55,7 @@ export const completedGames: string[] = [
 	'RiME',
 	'Rise of the Tomb Raider',
 	'Roads of Rome II',
+	'Sekiro: Shadows Die Twice',
 	'Scooby-Doo: Phantom of the Knight',
 	'Shadow of the Tomb Raider',
 	'Spec Ops: The Line',
