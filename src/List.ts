@@ -16,6 +16,7 @@ export const completedGames: string[] = [
 	'Battlefield 1',
 	'Battlefield 3',
 	'Battlefield 4',
+	'Battlefield V',
 	'Call of Duty',
 	'Call of Duty: Black Ops',
 	'Call of Duty: Black Ops II',
