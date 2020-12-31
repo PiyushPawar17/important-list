@@ -69,6 +69,7 @@ export const completedGames: string[] = [
 ].sort();
 
 export const unfinishedGames: string[] = [
+	'Among Us',
 	'Ashes Cricket 2009',
 	'Claw',
 	'Counter-Strike 1.6',
