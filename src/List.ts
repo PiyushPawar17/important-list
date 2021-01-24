@@ -43,6 +43,7 @@ export const completedGames: string[] = [
 	'Inside',
 	'Journey',
 	'Limbo',
+	"Marvel's Avengers",
 	"Mirror's Edge",
 	"Mirror's Edge Catalyst",
 	'Need for Speed: Most Wanted',
