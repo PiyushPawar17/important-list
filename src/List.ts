@@ -40,6 +40,7 @@ export const completedGames: string[] = [
 	'Heroes of Hellas',
 	'Heroes of Hellas 2 - Olympia',
 	'Heroes of Hellas 3 - Athens',
+	'Hitman',
 	'Inside',
 	'Journey',
 	'Limbo',
