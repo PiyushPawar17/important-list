@@ -73,6 +73,7 @@ export const completedGames: string[] = [
 export const unfinishedGames: string[] = [
 	'Among Us',
 	'Ashes Cricket 2009',
+	'Baba Is You',
 	'Claw',
 	'Counter-Strike 1.6',
 	'Counter-Strike: Condition Zero',
