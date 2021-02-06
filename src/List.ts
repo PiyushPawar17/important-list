@@ -86,6 +86,7 @@ export const unfinishedGames: string[] = [
 	'FIFA',
 	'Grand Theft Auto: San Andreas',
 	'Grand Theft Auto III',
+	'Hades',
 	'Midtown Madness',
 	'Need for Speed: Hot Pursuit',
 	'Need for Speed: Porsche Unleashed',
