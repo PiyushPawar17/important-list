@@ -45,6 +45,7 @@ export const completedGames: string[] = [
 	'Inside',
 	'Journey',
 	'Life Is Strange',
+	'Life Is Strange: Before the Storm',
 	'Limbo',
 	"Marvel's Avengers",
 	"Mirror's Edge",
