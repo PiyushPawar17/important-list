@@ -94,6 +94,7 @@ export const unfinishedGames: string[] = [
 	'Need for Speed: Underground',
 	'Prince of Persia',
 	'Roadrash',
+	'Rugby 08',
 	'We Happy Few',
 	'WWE SmackDown vs. Raw'
 ].sort();
