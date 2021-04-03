@@ -81,6 +81,7 @@ export const unfinishedGames: string[] = [
 	'Counter-Strike 1.6',
 	'Counter-Strike: Condition Zero',
 	'Counter-Strike: Global Offensive',
+	'Crazy Taxi',
 	'Cricket 07',
 	'Cricket 2000',
 	'Far Cry 2',
