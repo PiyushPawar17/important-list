@@ -32,6 +32,7 @@ export const completedGames: string[] = [
 	'Far Cry 4',
 	'Farm Frenzy 2',
 	'Firewatch',
+	'For Honor',
 	'Freedom Fighters',
 	'Ghost Recon: Future Soldier',
 	'Gone Home',
