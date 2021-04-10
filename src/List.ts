@@ -98,6 +98,7 @@ export const unfinishedGames: string[] = [
 	'Prince of Persia',
 	'Roadrash',
 	'Rugby 08',
+	'Valorant',
 	'We Happy Few',
 	'WWE SmackDown vs. Raw'
 ].sort();
