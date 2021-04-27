@@ -92,6 +92,7 @@ export const unfinishedGames: string[] = [
 	'Grand Theft Auto: San Andreas',
 	'Grand Theft Auto III',
 	'Hades',
+	'Metal Gear Rising: Revengeance',
 	'Midtown Madness',
 	'Need for Speed: Hot Pursuit',
 	'Need for Speed: Porsche Unleashed',
