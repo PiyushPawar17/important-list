@@ -1,5 +1,6 @@
 export const completedGames: string[] = [
 	'A Plague Tale: Innocence',
+	'A Way Out',
 	"Assassin's Creed",
 	"Assassin's Creed II",
 	"Assassin's Creed III",
