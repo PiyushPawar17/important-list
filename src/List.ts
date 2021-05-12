@@ -88,6 +88,7 @@ export const unfinishedGames: string[] = [
 	'Crazy Taxi',
 	'Cricket 07',
 	'Cricket 2000',
+	'Dangerous Dave',
 	'Far Cry 2',
 	'FIFA',
 	'Grand Theft Auto: San Andreas',
