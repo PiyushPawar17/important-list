@@ -71,6 +71,7 @@ export const completedGames: string[] = [
 	'Shadow of the Tomb Raider',
 	'Spec Ops: The Line',
 	'The Stanley Parable',
+	'Titanfall 2',
 	'Tomb Raider',
 	'Total Overdose',
 	'Urban Freestyle Soccer',
