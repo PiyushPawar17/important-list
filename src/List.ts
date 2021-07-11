@@ -93,6 +93,7 @@ export const unfinishedGames: string[] = [
 	'Dangerous Dave',
 	'Far Cry 2',
 	'FIFA',
+	'Forza Horizon 4',
 	'Grand Theft Auto: San Andreas',
 	'Grand Theft Auto III',
 	'Hades',
